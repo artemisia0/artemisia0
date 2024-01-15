@@ -6,7 +6,7 @@
 - 💚 Living under the fedora **linux** with **i3** window manager for years. **Vim**, **Emacs** user.
 - 📦️ Have some knowledge of ruby, python, js, java, rust, and even x86 elf asm.
 - 🔥 Love listening to The Cranberries, Metallica, Scorpions and other cool bands.
-- ⚡️ I ride like a lightning (**cyclist**, road bike).
+- ⚡️ I love cycling very much (road bike).
 
 ### Good reads:
 - 🚀 **Relentless: From Good to Great to Unstoppable** (Tim Grover Winning Series)
