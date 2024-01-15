@@ -4,3 +4,4 @@
 - 💥 Have 2+ years of experience in OOP in modern C++.
 - 💚 Living under the fedora linux with i3 window manager for years. Vim, Emacs user.
 - 📦️ Have some knowledge of ruby, python, js, java, rust, and even x86 elf asm.
+- 🔥 Love listening to The Cranberries, Metallica, Scorpions and other cool bands.
