@@ -1,4 +1,4 @@
-- 👷 Hi, I’m young 17 y.o computer scientist Artem. Currently living in Lutsk, Ukraine.
+- 👷 Hi, I’m 17 y.o. computer scientist. Currently living in Lutsk, Ukraine.
 - 🚑️ Interested in **web**, **compiler**, and **game** development.
 - ⚰️ Currently **learning Go** (as well as a bunch of other tools for web dev).
 - 💥 Have 2+ years of experience in **OOP in modern C++**.
