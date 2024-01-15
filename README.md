@@ -1,3 +1,4 @@
+About me:
 - 👷 Hi, I’m 17 y.o. computer scientist. Currently living in Lutsk, Ukraine.
 - 🚑️ Interested in **web**, **compiler**, and **game** development.
 - ⚰️ Currently **learning Go** (as well as a bunch of other tools for web dev).
