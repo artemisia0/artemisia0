@@ -6,3 +6,7 @@
 - 📦️ Have some knowledge of ruby, python, js, java, rust, and even x86 elf asm.
 - 🔥 Love listening to The Cranberries, Metallica, Scorpions and other cool bands.
 - ⚡️ I ride like a lightning (**cyclist**, road bike).
+
+The best I have ever read:
+- **Relentless**: From Good to Great to Unstoppable (Tim Grover Winning Series)
+- **Elegant Objects** by Yegor Bugayenko
