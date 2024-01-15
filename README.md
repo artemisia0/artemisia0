@@ -1,4 +1,4 @@
-About me:
+## About me:
 - 👷 Hi, I’m 17 y.o. computer scientist. Currently living in Lutsk, Ukraine.
 - 🚑️ Interested in **web**, **compiler**, and **game** development.
 - ⚰️ Currently **learning Go** (as well as a bunch of other tools for web dev).
@@ -8,7 +8,7 @@ About me:
 - 🔥 Love listening to The Cranberries, Metallica, Scorpions and other cool bands.
 - ⚡️ I ride like a lightning (**cyclist**, road bike).
 
-Good reads:
+## Good reads:
 - 🚀 **Relentless: From Good to Great to Unstoppable** (Tim Grover Winning Series)
 - 💡 **Elegant Objects** by Yegor Bugayenko
 - 🌱 **30 non-vegan excuses & how to respond to them** Ed Winters
