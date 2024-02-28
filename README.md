@@ -10,7 +10,7 @@ I am currently learning web development (MERN tech stack, GraphQL API).
 - Rust (I tried it and understood that it is what I want to learn later)
 - Ruby (I know its syntax...)
 - Java (less than 1 month of experience, tried to write some basic stuff)
-- JS (started exploring it some weeks ago and still I'm doing it)
+- JS (started exploring it some weeks ago and I'm still doing it)
 - asm (elf x64 nasm, know only basic stuff like control flow, syscalls, labels...)
 - Go (1-2 months of experience, RESTful APIs and web backends with Gin)
 - Python (2-3 months of experience, it was my first language)
