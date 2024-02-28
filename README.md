@@ -1,10 +1,10 @@
-#### Sup dude!
+## Sup dude!
 I'm a 17 y.o. boy who's going to become not so bad software engineer. I've tried many different things to do: 2D/3D game development (without game engine, pure C++ code with some library like OpenGL, SFML...), competitive programming (that is informatics olympiads, contests, problem solving), and many other cool things.
 
-#### What I'm doing??
+### What I'm doing??
 I am currently learning web development (MERN tech stack, GraphQL API).
 
-#### Skill set (it's not full of course...)
+### Skill set (it's not full of course...)
 - C++ (2 years+ of experience, can write in it *almost* everything I want)
 - C (2-3 month of experience, it may take much time to write smth valuable)
 - Rust (I tried it and understood that it is what I want to learn later)
