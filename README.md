@@ -4,7 +4,7 @@ I'm a 17 y.o. boy who's going to become not so bad software engineer. I've tried
 ### What I'm doing??
 I am currently learning web development (MERN tech stack, GraphQL API).
 
-### Skill set (it's not full of course...)
+### Skill set (of course, it's not complete...)
 - C++ (2 years+ of experience, can write in it *almost* everything I want)
 - C (2-3 month of experience, it may take much time to write smth valuable)
 - Rust (I tried it and understood that it is what I want to learn later)
