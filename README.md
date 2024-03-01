@@ -1,5 +1,5 @@
 ## 🔥 Sup dude! 
-I'm a 17 y.o. boy who's going to become not so bad software engineer. I've tried many different things to do: 2D/3D game development (without game engine, pure C++ code with some library like OpenGL, SFML...), competitive programming (that is informatics olympiads, contests, problem solving), interpreter (and even compiler) development, and many other cool things.
+I'm a 17 y.o. boy. I've tried many different things to do: 2D/3D game development (without game engine, pure C++ code with some library like OpenGL, SFML...), competitive programming (that is informatics olympiads, contests, problem solving), interpreter (and even compiler) development, and many other cool things.
 
 ### 🧑‍💻 What I'm doing??
 I am currently learning web development (MERN tech stack, GraphQL API).
