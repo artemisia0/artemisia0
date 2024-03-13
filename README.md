@@ -1,6 +1,8 @@
 ## 🔥 Hi!
 I'm a 17 y.o. boy. I've tried many different things to do: 2D/3D game development (without game engine, pure C++ code with some library like OpenGL, SFML...), competitive programming (that is informatics olympiads, contests, problem solving), interpreter development, and many other cool things.
 
+**My favourite programming book is Elegant Objects**
+
 ### 🧑‍💻 What am I doing??
 I am currently learning web development (MERN tech stack, GraphQL API).
 
@@ -21,3 +23,4 @@ My favourite tool set is
 - ⚰️ asm (elf x64 nasm, know only basic stuff like control flow, syscalls, labels...)
 - 🤡 Go (1-2 months of experience, RESTful APIs and web backends with Gin)
 - 💡 Python (2-3 months of experience, it was my first language)
+- 
