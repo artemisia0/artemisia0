@@ -23,4 +23,3 @@ My favourite tool set is
 - ⚰️ asm (elf x64 nasm, know only basic stuff like control flow, syscalls, labels...)
 - 🤡 Go (1-2 months of experience, RESTful APIs and web backends with Gin)
 - 💡 Python (2-3 months of experience, it was my first language)
-- 
