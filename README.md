@@ -1,8 +1,6 @@
 ## 🔥 Hi!
 I'm a 17 y.o. boy. I've tried many different things to do: 2D/3D game development (without game engine, pure C++ code with some library like OpenGL, SFML...), competitive programming (that is informatics olympiads, contests, problem solving), interpreter development, and many other cool things.
 
-_**My favourite programming book is Elegant Objects**_
-
 ### 🧑‍💻 What am I doing??
 I am currently learning web development (MERN tech stack, GraphQL API).
 
