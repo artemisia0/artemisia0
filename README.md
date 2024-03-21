@@ -52,7 +52,7 @@
     <td>Beginner</td>
     <td>-</td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #ffffff;">
     <td>Kotlin</td>
     <td>Beginner</td>
     <td>-</td>
@@ -62,7 +62,7 @@
     <td>Beginner</td>
     <td>-</td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #ffffff;">
     <td>Rust</td>
     <td>Beginner</td>
     <td>-</td>
@@ -72,7 +72,7 @@
     <td>Beginner</td>
     <td>-</td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #ffffff;">
     <td>PHP</td>
     <td>Beginner</td>
     <td>-</td>
