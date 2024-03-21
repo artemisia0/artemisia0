@@ -1,23 +1,11 @@
-## 🔥 Hi!
-I'm a 17 y.o. boy. I've tried many different things to do: 2D/3D game development (without game engine, pure C++ code with some library like OpenGL, SFML...), competitive programming (that is informatics olympiads, contests, problem solving), interpreter development, and many other cool things.
+#### Tools
+- fedora linux
+- neovim
+- i3
+- XTerm
 
-### 🧑‍💻 What am I doing??
-I am currently learning web development (MERN tech stack, GraphQL API).
-
-### What am I using???
-My favourite tool set is 
-- *linux* (fedora)
-- *vim/neovim* (tried emacs too)
-- *i3 window manager*
-- *XTerm* (kitty is good too).
-
-### Skill set (of course, it's not complete...)
-- 🚑️ C++ (2 years+ of experience, can write in it *almost* everything I want)
-- 👷 C (2-3 month of experience)
-- 🚀 Rust (entry level, want to learn it in the next year)
-- 💄 Ruby (I know its syntax...)
-- 🔧 Java (less than 1 month of experience, tried to write some basic stuff)
-- 🔨 JS (started exploring it some weeks ago and I'm still doing it)
-- ⚰️ asm (elf x64 nasm, know only basic stuff like control flow, syscalls, labels...)
-- 🤡 Go (1-2 months of experience, RESTful APIs and web backends with Gin)
-- 💡 Python (2-3 months of experience, it was my first language)
+#### Skills
+- ##### Advanced
+  - https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+- ##### Intermediate
+- ##### Basic proficiency
