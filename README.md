@@ -1,5 +1,5 @@
 ### About me
-Experienced C++ developer with diverse background in different programming languages. Currently exploring **rust** and **MERN** stack. I can write _interpreters_, _desktop applications_, _games_, and _web sites_.
+Experienced C++ developer with diverse background in different programming languages. I am now exploring **MERN** stack and web development in general. I can write _interpreters_, _desktop applications_, _games_, and _web sites_.
 
 ### Workspace
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
